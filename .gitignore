@@ -5,6 +5,9 @@ run_sh/
 ckpt/
 ttf/
 
+graphicsZhHans.txt
+graphicsZhHanMy.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
